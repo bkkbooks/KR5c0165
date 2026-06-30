@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5c0165/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 圖經衍義本草
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 00:48:52.973456'
+  source:
+    repository: kanripo
+    path: KR5c0165/KR5c0165_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:0dab0a48665c10fc44d8a12b9cfd37adc2e1a55e90a4331667e466aa31eea4ed
